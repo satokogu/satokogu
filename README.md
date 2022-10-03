@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @satokogu
 - 👀 I’m interested in DEV/QA.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning React/GO.
 - 💞️ I’m looking to collaborate on VTeacher.
 - 📫 How to reach me ...
 
